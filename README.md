@@ -2,4 +2,6 @@
 
 
 This is basically a product page having all functionalities the given below:
-* The product can be added in cart.
+* The product can be added in cart because it include the add-to-cart button.
+* The Product can be veiwed with details because it contains details page link.
+* 
