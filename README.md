@@ -7,3 +7,4 @@ This is basically a product page having all functionalities the given below:
 * User can filter page.
 * User can sort the product based on price.
 * user can add the product in favorites.
+* User can proceed the product to buy.
